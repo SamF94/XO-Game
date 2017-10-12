@@ -1,0 +1,9 @@
+C:\Users\Sam\Desktop\Comp157 VB\XOGame\XOGame\bin\Debug\XOGame.exe.config
+C:\Users\Sam\Desktop\Comp157 VB\XOGame\XOGame\bin\Debug\XOGame.exe
+C:\Users\Sam\Desktop\Comp157 VB\XOGame\XOGame\bin\Debug\XOGame.pdb
+C:\Users\Sam\Desktop\Comp157 VB\XOGame\XOGame\obj\Debug\XOGame.csprojResolveAssemblyReference.cache
+C:\Users\Sam\Desktop\Comp157 VB\XOGame\XOGame\obj\Debug\XOGame.XOForm.resources
+C:\Users\Sam\Desktop\Comp157 VB\XOGame\XOGame\obj\Debug\XOGame.Properties.Resources.resources
+C:\Users\Sam\Desktop\Comp157 VB\XOGame\XOGame\obj\Debug\XOGame.csproj.GenerateResource.Cache
+C:\Users\Sam\Desktop\Comp157 VB\XOGame\XOGame\obj\Debug\XOGame.exe
+C:\Users\Sam\Desktop\Comp157 VB\XOGame\XOGame\obj\Debug\XOGame.pdb
